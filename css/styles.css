@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background-color: #30475E;
+  text-align: center;
+}
+
+.QR-img {
+  height: 200px;
+  width: 200px;
+}
+
+.QR-box {
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-width: 20px;
+  border-color: white;
+  border-radius: 20px;
+  border-bottom-width: 250px;
+  position: relative;
+  margin: 100px auto auto auto;
+}
+.container {
+
+  text-align: center;
+  width: 25%;
+  position: relative;
+  left:35%;
+}
+
+.text{
+  text-align: center;
+}
+
+p {
+  color: grey;
+  font-family: cursive;
+  font-size: 13px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: powderblue;
+}
